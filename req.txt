@@ -1,0 +1,6 @@
+google-adk
+python.env
+ddgs
+mcp[cli]
+uvicorn
+starlette
